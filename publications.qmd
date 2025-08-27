@@ -1,0 +1,20 @@
+---
+title: "Publications"
+bibliography: refs/pubs.bib
+csl: refs/ecology-minimal.csl
+nocite: |
+  @*
+---
+
+## Selected publications
+
+-   **Gonçalves-Souza T**, Chase J, Haddad N, …, Sanders NJ. (2025). Increasing species turnover does not alleviate biodiversity loss in fragmented landscapes. *Nature*. <https://doi.org/10.1038/s41586-025-08688-7>. ***News and Views written by Robert Fletcher*** [(link here)](https://www.nature.com/articles/d41586-025-00672-5) [Media coverage](https://lsa.umich.edu/eeb/news-events/all-news/search-news/publication-spotlight--thiago-goncalves-souza-and-nate-sanders-i.html)
+-   Boldorini GX, McCary MA, Romero GQ, …, **Gonçalves-Souza T** (2024). Predators control pests and increase yield across crop types and climates: a meta-analysis. \*Proc. Royal Soc. B\*\* 291:20232522. <https://doi.org/10.1098/rspb.2023.2522>
+-   Pinho BX, … , **Gonçalves-Souza T**, et al. (2025). Winner-loser plant trait replacements in human-modified tropical forests. *Nature Ecology & Evolution*. <https://doi.org/10.1038/s41559-024-02592-5>
+-   Martins PM, Poulin R, **Gonçalves-Souza T**. (2021). Integrating climate and host richness as drivers of global parasite diversity. *Global Ecol. Biogeogr.* 30:196–204. <https://doi.org/10.1111/geb.13213>
+-   Romero GQ, **Gonçalves-Souza T**, Kratina P, … , Roslin T (2018). Global predation pressure redistribution under future climate change. *Nature Climate Change* 8:1087–1091. <https://doi.org/10.1038/s41558-018-0347-y>
+
+## Full list
+
+::: {#refs}
+:::

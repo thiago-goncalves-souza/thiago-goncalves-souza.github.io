@@ -1,0 +1,37 @@
+---
+title: "Research"
+---
+
+## Interests
+
+- Global Change Ecology (Land-use change; Climate Change; Invasion)
+- Quantitative Community Ecology (Macroecology; Biodiversity metrics; Global Synthesis)
+- Trait-based ecology (Predicting Trait Distributions; Biodiversity and Ecosystem Functioning)
+
+## Current Projects
+
+### Synthesizing the effects of human-mediated habitat loss on biodiversity
+
+A primary goal of this working group is to understand how the anthropogenic processes that underpin biodiversity change influence the loss of species, traits, and ecosystem functions. The primary breakthrough in resolving this challenge is to disentangle the influence of passive sampling (via species-area relationships) and ecosystem decay (via species extinction in smaller habitats due to demographic processes) on multiple facets.
+
+- [More information](https://seas.umich.edu/globalchangebiology/research/habitat-loss)
+
+#### Related publications
+
+- **Gonçalves-Souza T**, Chase J, Haddad N, …, Sanders NJ. (2025) *Increasing species turnover does not alleviate biodiversity loss in fragmented landscapes*. **Nature**. <https://doi.org/10.1038/s41586-025-08688-7>
+- **Gonçalves-Souza T**, …, Chase J. (2025) *LANDFRAG: A dataset to investigate the effects of forest loss and fragmentation on biodiversity*. **Global Ecology and Biogeography**. <https://doi.org/10.1111/geb.70015>
+- Romero GQ, **Gonçalves-Souza T**, Kratina P, …, Roslin T. (2018) *Global predation pressure redistribution under future climate change*. **Nature Climate Change** 8:1087–1091. <https://doi.org/10.1038/s41558-018-0347-y>
+
+
+
+### LASER - Life-cycle analysis synthesized with ecosystems and risk focused on sustainable forestry 
+
+Companies and governments increasingly deploy forest natural climate solutions (fNCS) to leverage the  immense carbon capture and storage potential of forests. However, fundamental errors, oversimplifications,  and inconsistencies in the carbon bookkeeping of fNCS mean that decision-makers often do not know if fNCS  mitigate or exacerbate climate change. Assessments of fNCS commonly assert that carbon in forest biomass  is quickly recaptured (carbon neutral) or stored indefinitely (carbon negative) and count forest regrowth after  harvest as carbon sequestration. These assumptions ignore post-harvest carbon emissions from altered forest  landscapes (e.g., soils), overlook that short-term emissions are not climate neutral because instantaneous  radiative forcing is only gradually offset by forest regrowth, and double-count carbon capture that would have  happened if forests were not harvested. Despite increasing focus on these shortcomings in academia, current  carbon accounting standards still consider forest biomass is carbon neutral. Studies that do not make this  assumption are aspatial, use simplistic forest carbon accounting models, or ignore growing risks from climate  change. Moreover, the singular focus on carbon in assessments of fNCS overlooks the potential risks of fNCS  to conservation efforts and local communities. As such, decision makers lack critical knowledge about the  effectiveness and broader sustainability of fNCS.  
+This project addresses these gaps by pioneering a method to accurately quantify the stocks, flows, and  emissions of forest (and fossil) carbon across the life-cycle of fNCS. This model, LASER (Life-cycle Analysis  Synthesized with Ecology and Risk), is spatially-explicit and incorporates climate, ecological, and social risks to  holistically assess the sustainability of fNCS. This model is applied to three fNCS - bioenergy, short-lived forest  products, and timber - in Brazil, Canada, and the United States. To build LASER, the project team combines  concepts and methods from forest ecology, industrial ecology, geospatial science, and political ecology. 
+
+- Collaborators: [Benjamin Goldstein (PI)](https://seas.umich.edu/research/faculty/benjamin-goldstein), [Kai Zhu (co-PI)](https://zhulab.seas.umich.edu/), Dimitrios Gounaridis, and Geoffrey Lewis
+
+
+## Opportunities
+
+I welcome inquiries from prospective postdocs for this [open call from IGCB](https://seas.umich.edu/globalchangebiology/postdoc-opportunities). Email me with a short statement of interests.
