@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Thiago Gonçalves-Souza"
-  site-url: "https://username.github.io"
+  site-url: "https://thiago-goncalves-souza.github.io"
   navbar:
     logo: images/profile.jpg
     search: true
@@ -31,7 +31,7 @@ website:
   favicon: images/profile.jpg
   open-graph: true
   twitter-card: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/thiago-goncalves-souza/thiago-goncalves-souza.github.io
   repo-actions: [source, issue]
 
 format:
