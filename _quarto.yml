@@ -25,7 +25,7 @@ website:
         href: contact.qmd
   page-footer:
     left: |
-      © {{< 2025 >}} Thiago Gonçalves-Souza • <a href="mailto:tgoncalv@umich.edu">tgoncalv@umich.edu</a>
+      © {{< meta year >}} Thiago Gonçalves-Souza • <a href="mailto:tgoncalv@umich.edu">tgoncalv@umich.edu</a>
     right: |
       <a href="https://orcid.org/0000-0001-8471-7479">ORCID</a> • <a href="https://scholar.google.com.br/citations?hl=en&user=TjaP2l8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
   favicon: images/profile.jpg
